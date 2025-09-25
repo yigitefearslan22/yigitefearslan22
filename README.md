@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Yiğit!👋 </h1>
+<p align="center">
+<i>a passionate developer with a interest in robotics and AI🤖.
+🧑‍🎓Computer Engineering student from Kırıkkale University</i>
+</p>
 
-<!--
-**yigitefearslan22/yigitefearslan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌍Participant of hackathons and training like challenges
+-🖥️Currently improving myself
+-💭Team leading experiences & prone to teamwork and responsibility.
+
+---
+
+### 💻Tech Stack
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![C#](https://img.shields.io/badge/Main-C%23-purple)
+![Java](https://img.shields.io/badge/Java-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-green)
+
+#### Tools & Technologies 
+![OpenCV](https://img.shields.io/badge/OpenCV-orange)
+![ViusalStudio](https://img.shields.io/badge/Main-VisualStudio-purple)
+![Linux](https://img.shields.io/badge/Linux-black)
+![KiCad](https://img.shields.io/badge/KiCad-white)
+
+#### 🎖️wards & Projects
+-
+
+### 📫Let's Contact
+📩Email: yigitefearslan222@gmail.com
+💼[LinkedIn](https://www.linkedin.com/in/yiğit-efe-arslan-a61932330/)
+
+
+<p align="center"> 🚀Always building, always learning!</p>
