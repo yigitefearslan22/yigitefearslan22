@@ -8,7 +8,7 @@
 
 ### About Me
 
--🌍Participant of hackathons and training like challenges
+-🌍Participant of hackathons and lover of corn soup
 -🖥️Currently improving myself
 -💭Team leading experiences & prone to teamwork and responsibility.
 
@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black)
 ![KiCad](https://img.shields.io/badge/KiCad-white)
 
-#### 🎖️wards & Projects
+#### 🎖️awards & Projects
 -
 
 ### 📫Let's Contact
