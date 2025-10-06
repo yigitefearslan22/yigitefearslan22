@@ -29,7 +29,7 @@
 ![KiCad](https://img.shields.io/badge/KiCad-white)
 
 #### 🎖️awards & Projects
--
+-Novacast.space
 
 ### 📫Let's Contact
 📩Email: yigitefearslan222@gmail.com
