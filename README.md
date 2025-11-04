@@ -29,7 +29,7 @@
 ![KiCad](https://img.shields.io/badge/KiCad-white)
 
 #### 🎖️awards & Projects
--Novacast.space
+-Novacast.space => A forecast app that shows up to 360 days
 
 ### 📫Let's Contact
 📩Email: yigitefearslan222@gmail.com
