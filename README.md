@@ -29,8 +29,8 @@
 ![KiCad](https://img.shields.io/badge/KiCad-white)
 
 #### 🎖️awards & Projects
--Novacast.space => A forecast app that shows up to 360 days \n
--QR Attendance => Kırıkkale University qr attendance app \n
+-Novacast.space => A forecast app that shows up to 360 days <br>
+-QR Attendance => Kırıkkale University qr attendance app <br>
 -INTOPASS => Into Community social media and news app
 
 ### 📫Let's Contact
