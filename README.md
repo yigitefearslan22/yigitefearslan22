@@ -8,8 +8,8 @@
 
 ### About Me
 
--🌍Participant of hackathons and lover of corn soup
--🖥️Currently improving myself
+-🌍Participant of hackathons and lover of corn soup <br>
+-🖥️Currently improving myself <br>
 -💭Team leading experiences & prone to teamwork and responsibility.
 
 ---
