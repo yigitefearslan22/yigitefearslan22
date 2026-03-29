@@ -30,6 +30,8 @@
 
 #### 🎖️awards & Projects
 -Novacast.space => A forecast app that shows up to 360 days
+-QR Attendance => Kırıkkale University qr attendance app
+-INTOPASS => Into Community social media and news app
 
 ### 📫Let's Contact
 📩Email: yigitefearslan222@gmail.com
