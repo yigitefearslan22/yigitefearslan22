@@ -21,6 +21,7 @@
 ![C#](https://img.shields.io/badge/Main-C%23-purple)
 ![Java](https://img.shields.io/badge/Java-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-green)
+![Dart](https://img.shields.io/badge/DART-blue?style=flat)
 
 #### Tools & Technologies 
 ![OpenCV](https://img.shields.io/badge/OpenCV-orange)
